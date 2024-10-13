@@ -2,7 +2,8 @@
 
 This is a simple word puzzle game built as part of **Project 1: Full Stack Web Development using Python MySirG**. The game challenges users to form correct words from scrambled letters. It runs in the console, and users earn points based on their answers.
 ![Word Puzzle Game](https://github.com/nothpy/Word-Puzzle-Game/blob/main/puzzle%20game.png)
-
+## Output
+![Word Puzzle Game](https://github.com/nothpy/Word-Puzzle-Game/blob/main/output.png)
 ## Table of Contents
 - [About the Game](#about-the-game)
 - [Features](#features)
