@@ -19,7 +19,7 @@ This is a simple word puzzle game built as part of **Project 1: Full Stack Web D
 The **Word Puzzle Game** asks users to solve a puzzle by unscrambling a set of letters to form a correct word. Players are given 5 random words to solve, one at a time. The game keeps track of the user's score based on correct and incorrect answers.
 
 ## Features
-- Random selection of 5 words from a predefined word list.
+- Random selection of 20 words from a predefined word list.
 - Scrambles the letters of the selected word before presenting it to the user.
 - Simple scoring system where users gain 1 point for correct answers and lose 1 point for incorrect answers.
 - Displays the final score after 5 rounds.
@@ -51,7 +51,7 @@ The **Word Puzzle Game** asks users to solve a puzzle by unscrambling a set of l
 1. **Random Selection**: The game selects 5 random words from a predefined list and scrambles the letters.
 2. **Player Input**: Players are prompted to enter their guess for each scrambled word.
 3. **Scoring**: The game evaluates each answer and updates the score accordingly.
-4. **Final Score**: After 5 rounds, the final score is displayed.
+4. **Final Score**: After 20 rounds, the final score is displayed.
 
 ## Scoring System
 
